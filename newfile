@@ -1,0 +1,11 @@
+./
+../
+.git/
+file1
+gitpull
+javafile.java
+total 4
+-rw-r--r-- 1 saksh 197609 89 Oct 24 09:50 file1
+-rw-r--r-- 1 saksh 197609 19 Oct 24 10:23 gitpull
+-rw-r--r-- 1 saksh 197609 45 Oct 24 09:50 javafile.java
+-rw-r--r-- 1 saksh 197609 41 Oct 24 10:24 newfile
